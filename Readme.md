@@ -110,10 +110,10 @@ This project demonstrates:
 - Data-driven decision making
 
 👨‍💻 About the Author
-Luiz Milaré - Data Analyst transitioning from hospitality to data science.
-📍 Based in France | Multilingual (PT, FR, EN, IT)
-🎯 Targeting opportunities in Data Analysis 
-🔗 LinkedIn | 🐙 GitHub
+Luiz Milaré is a data analyst with a solid background in hospitality, bringing a business-oriented perspective to data. Multilingual (Portuguese, French, English, Italian), he enjoys transforming complex datasets into clear insights that support strategic decisions and operational efficiency.
+
+🔗 LinkedIn: https://www.linkedin.com/in/luiz-milar%C3%A9-a5869519a/ 
+🐙 GitHub: https://github.com/Luiz-mila
 
 🙏 Acknowledgments
 Dataset: Hotel Booking Demand from Kaggle
